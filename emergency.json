@@ -1,0 +1,18 @@
+{
+  "breathing": {
+    "title": "Take a deep breath.",
+    "lines": ["You don't have to figure everything out", "right now.", "", "Just stay here for a moment.", "I'm here with you."]
+  },
+  "comfort": [
+    ["Right now, nothing is required of you", "except to breathe.", "Just breathe."],
+    ["You are safe.", "This moment will pass,", "and you will still be here."],
+    ["Whatever this is,", "you don't have to face it alone."],
+    ["You've survived every hard moment before this one.", "You will survive this too."],
+    ["Just for now,", "let this be simple: breathe in, breathe out."],
+    ["You are not too much.", "You are not broken.", "You are just having a hard moment."],
+    ["I'm here.", "Right here.", "Not going anywhere."],
+    ["This feeling is loud right now,", "but it does not get the final word."],
+    ["Put your hand on your heart.", "Feel it beating. You are alive, you are okay."],
+    ["One breath at a time.", "That's all you need right now."]
+  ]
+}
